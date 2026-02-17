@@ -1,0 +1,155 @@
+/* 
+
+#box{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    background: aquamarine;
+    margin-top: 60px;
+    box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);;
+}
+
+.btn{
+    width: 170px;
+    height: 70px;
+    color: red;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 110px;
+    margin-left: 160px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: blue;
+ box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 17px 0px rgba(0,0,0,0.75);;
+} */
+
+
+
+
+
+
+
+
+
+
+
+/* 
+            designable function of email and password with pass  and 
+             off option and also save */
+
+
+
+
+.formcontainer{
+      
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 30px;
+    border: 1px solid black;
+    box-shadow: -4px 8px 31px -6px rgba(0,0,0,0.64);
+-webkit-box-shadow: -4px 8px 31px -6px rgba(0,0,0,0.64);
+-moz-box-shadow: -4px 8px 31px -6px rgba(0,0,0,0.64);
+border-radius: 20px;
+}
+
+
+.formcontainer H1{
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.first{
+    width: 400px;
+    height: 90px;
+    
+    
+
+   
+}
+
+.firsttxt{
+    width: 130px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 40px;
+        border-radius: 10px;
+
+    
+}
+
+.second{
+     width: 400px;
+    height: 130px;
+    margin-top: 20px;
+    position: relative;
+}
+
+.firsttxt2{
+     width: 220px;
+    height: 30px;
+    display: block;
+    gap: 80px;
+     margin-left: 40px;
+         border-radius: 10px;
+
+}
+
+.firsttxt3{
+     width: 220px;
+    height: 30px;
+    display: block;
+    gap: 80px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.eye-icon{
+    margin-left: 240px;
+   margin-bottom: 190px;
+   position: absolute;
+   top: 65px;
+   cursor:pointer
+    
+}
+
+.submit{
+    width: 150px;
+    height: 30px;
+    margin: auto;
+    margin-left: 40px;
+    border-radius: 10px;
+}  */
+
+/* .hidden{
+  opacity: 0;
+}
+
+.big{
+    height: 700px;
+    
+}
+
+
+#conatiner{
+       width: 500px;
+       height: 300px;
+       background-color: aqua;
+       margin: auto;
+       margin-top: 50px;
+       position: relative;
+      
+}
+
+.btn{
+  margin-left: 50px;
+  margin-bottom: 0%;
+     */
+}
